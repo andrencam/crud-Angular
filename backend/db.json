@@ -1,0 +1,15 @@
+{
+    "products": [{
+        "id": 1,
+        "name": "Jabra elite 75t",
+        "price": 239.00
+    }, {
+        "id": 2,
+        "name": "laptop mac pro",
+        "price": 4.000
+    }, {
+        "id": 3,
+        "name": "iphone X",
+        "price": 850.00
+    }]
+}
